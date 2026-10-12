@@ -2,6 +2,10 @@
 
 Portfolio documentation for organizing Walmart bulk item setup and catalog updates.
 
+## Included Files
+- [Bulk Upload QA Checklist](bulk_upload_qa_checklist.md)
+- [Demo Bulk Catalog](sample_bulk_catalog.csv)
+
 ## Recommended Working Columns
 
 | Source Field | Marketplace Field | Required? | QA Status |
